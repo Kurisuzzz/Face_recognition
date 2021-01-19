@@ -6,4 +6,4 @@
 
 ## 设计思路
 
-<img src = "F:\360MoveData\Users\Dell\Desktop\code\project\Face_recognition\images\plan.jpg"></img>
+<img src = ".\images\plan.jpg"></img>
