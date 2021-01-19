@@ -1,4 +1,9 @@
 # Face_recognition
-我的毕业设计
 
-![image-20210119190201852](C:\Users\Dell\AppData\Roaming\Typora\typora-user-images\image-20210119190201852.png)
+本项目为Kurisu的毕业设计
+
+
+
+## 设计思路
+
+<img src = "F:\360MoveData\Users\Dell\Desktop\code\project\Face_recognition\images\plan.jpg"></img>
