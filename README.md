@@ -6,4 +6,4 @@
 
 ## 设计思路
 
-<img src = ".\images\plan.jpg"></img>
+![Image text](https://raw.githubusercontent.com/Kurisuzzz/Face_recognition/main/images/Plan.jpg?token=APJLO62FKNIATXT4UKFXW43AA3LWA)
